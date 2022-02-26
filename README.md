@@ -36,8 +36,8 @@ Deploy
 Configure the connection to your MooseFs cluster and deploy:
 
 ```sh
-$ git clone https://github.com/Kunde21/moosefs-csi
-$ cd moosefs-csi/kubernetes
+$ git clone https://github.com/mftlabs/amf-fs
+$ cd amf-fs/kubernetes
 
 <edit kustomization.yaml>
 
